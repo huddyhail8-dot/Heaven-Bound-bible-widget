@@ -1,0 +1,273 @@
+
+[
+  {
+    "id": "verse1",
+    "book": "John",
+    "chapter": 3,
+    "verse": 16,
+    "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+    "category": ["Love", "Hope", "Faith"],
+    "keywords": ["God", "loved", "world", "son", "believe", "everlasting life"]
+  },
+  {
+    "id": "verse2",
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 13,
+    "text": "I can do all things through Christ which strengtheneth me.",
+    "category": ["Strength", "Faith", "Hope"],
+    "keywords": ["Christ", "strength", "all things"]
+  },
+  {
+    "id": "verse3",
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11,
+    "text": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "category": ["Hope", "Guidance", "Peace"],
+    "keywords": ["plans", "Lord", "prosper", "hope", "future"]
+  },
+  {
+    "id": "verse4",
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 28,
+    "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "category": ["Faith", "Hope", "Guidance"],
+    "keywords": ["God", "works", "good", "love", "purpose"]
+  },
+  {
+    "id": "verse5",
+    "book": "Psalm",
+    "chapter": 23,
+    "verse": 4,
+    "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+    "category": ["Strength", "Peace", "Hope"],
+    "keywords": ["valley", "death", "fear", "comfort", "God"]
+  },
+  {
+    "id": "verse6",
+    "book": "Matthew",
+    "chapter": 6,
+    "verse": 33,
+    "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+    "category": ["Faith", "Wisdom", "Guidance"],
+    "keywords": ["seek", "kingdom", "God", "righteousness"]
+  },
+  {
+    "id": "verse7",
+    "book": "Isaiah",
+    "chapter": 41,
+    "verse": 10,
+    "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+    "category": ["Strength", "Hope", "Peace"],
+    "keywords": ["fear", "God", "strengthen", "help", "uphold"]
+  },
+  {
+    "id": "verse8",
+    "book": "1 Corinthians",
+    "chapter": 13,
+    "verse": 4,
+    "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up.",
+    "category": ["Love", "Wisdom"],
+    "keywords": ["charity", "love", "kind", "envy"]
+  },
+  {
+    "id": "verse9",
+    "book": "Proverbs",
+    "chapter": 3,
+    "verse": 5,
+    "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+    "category": ["Faith", "Wisdom", "Guidance"],
+    "keywords": ["trust", "Lord", "heart", "understanding"]
+  },
+  {
+    "id": "verse10",
+    "book": "Psalm",
+    "chapter": 46,
+    "verse": 1,
+    "text": "God is our refuge and strength, a very present help in trouble.",
+    "category": ["Strength", "Hope", "Healing", "Peace"],
+    "keywords": ["God", "refuge", "strength", "help", "trouble"]
+  },
+  {
+    "id": "verse11",
+    "book": "James",
+    "chapter": 1,
+    "verse": 5,
+    "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+    "category": ["Wisdom", "Guidance"],
+    "keywords": ["wisdom", "ask", "God", "given"]
+  },
+  {
+    "id": "verse12",
+    "book": "Galatians",
+    "chapter": 5,
+    "verse": 22,
+    "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith.",
+    "category": ["Love", "Peace", "Faith"],
+    "keywords": ["fruit", "spirit", "love", "joy", "peace", "faith"]
+  },
+  {
+    "id": "verse13",
+    "book": "Hebrews",
+    "chapter": 11,
+    "verse": 1,
+    "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+    "category": ["Faith", "Hope"],
+    "keywords": ["faith", "substance", "hoped", "evidence", "seen"]
+  },
+  {
+    "id": "verse14",
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 7,
+    "text": "For we walk by faith, not by sight.",
+    "category": ["Faith", "Guidance"],
+    "keywords": ["walk", "faith", "sight"]
+  },
+  {
+    "id": "verse15",
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.",
+    "category": ["Faith", "Hope"],
+    "keywords": ["grace", "saved", "faith", "gift", "God"]
+  },
+  {
+    "id": "verse16",
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 7,
+    "text": "Casting all your care upon him; for he careth for you.",
+    "category": ["Peace", "Hope", "Healing"],
+    "keywords": ["care", "him", "careth"]
+  },
+  {
+    "id": "verse17",
+    "book": "Psalm",
+    "chapter": 119,
+    "verse": 105,
+    "text": "Thy word is a lamp unto my feet, and a light unto my path.",
+    "category": ["Guidance", "Wisdom"],
+    "keywords": ["word", "lamp", "feet", "light", "path"]
+  },
+  {
+    "id": "verse18",
+    "book": "John",
+    "chapter": 14,
+    "verse": 27,
+    "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+    "category": ["Peace", "Hope", "Strength"],
+    "keywords": ["peace", "heart", "troubled", "afraid"]
+  },
+  {
+    "id": "verse19",
+    "book": "Matthew",
+    "chapter": 11,
+    "verse": 28,
+    "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+    "category": ["Healing", "Peace", "Hope"],
+    "keywords": ["come", "labour", "heavy laden", "rest"]
+  },
+  {
+    "id": "verse20",
+    "book": "Isaiah",
+    "chapter": 53,
+    "verse": 5,
+    "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+    "category": ["Healing", "Forgiveness", "Hope"],
+    "keywords": ["wounded", "transgressions", "bruised", "iniquities", "peace", "stripes", "healed"]
+  },
+  {
+    "id": "verse21",
+    "book": "Psalm",
+    "chapter": 30,
+    "verse": 2,
+    "text": "O Lord my God, I cried unto thee, and thou hast healed me.",
+    "category": ["Healing", "Hope", "Faith"],
+    "keywords": ["Lord", "God", "cried", "healed"]
+  },
+  {
+    "id": "verse22",
+    "book": "Mark",
+    "chapter": 11,
+    "verse": 24,
+    "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.",
+    "category": ["Faith", "Hope", "Guidance"],
+    "keywords": ["desire", "pray", "believe", "receive"]
+  },
+  {
+    "id": "verse23",
+    "book": "Romans",
+    "chapter": 12,
+    "verse": 2,
+    "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+    "category": ["Wisdom", "Guidance", "Strength"],
+    "keywords": ["conformed", "transformed", "renewing", "mind", "will of God"]
+  },
+  {
+    "id": "verse24",
+    "book": "Proverbs",
+    "chapter": 16,
+    "verse": 3,
+    "text": "Commit thy works unto the Lord, and thy thoughts shall be established.",
+    "category": ["Faith", "Guidance", "Wisdom"],
+    "keywords": ["commit", "works", "Lord", "thoughts", "established"]
+  },
+  {
+    "id": "verse25",
+    "book": "Psalm",
+    "chapter": 139,
+    "verse": 14,
+    "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
+    "category": ["Hope", "Strength", "Love"],
+    "keywords": ["praise", "fearfully", "wonderfully made", "marvellous", "works"]
+  },
+  {
+    "id": "verse26",
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 18,
+    "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+    "category": ["Love", "Peace", "Strength"],
+    "keywords": ["fear", "love", "perfect", "torment"]
+  },
+  {
+    "id": "verse27",
+    "book": "Psalm",
+    "chapter": 91,
+    "verse": 2,
+    "text": "I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.",
+    "category": ["Faith", "Strength", "Hope"],
+    "keywords": ["Lord", "refuge", "fortress", "God", "trust"]
+  },
+  {
+    "id": "verse28",
+    "book": "Philippians",
+    "chapter": 2,
+    "verse": 3,
+    "text": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+    "category": ["Wisdom", "Love"],
+    "keywords": ["strife", "vainglory", "lowliness", "esteem"]
+  },
+  {
+    "id": "verse29",
+    "book": "Colossians",
+    "chapter": 3,
+    "verse": 13,
+    "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+    "category": ["Forgiveness", "Love", "Peace"],
+    "keywords": ["forbearing", "forgiving", "quarrel", "Christ"]
+  },
+  {
+    "id": "verse30",
+    "book": "Romans",
+    "chapter": 5,
+    "verse": 8,
+    "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.",
+    "category": ["Love", "Forgiveness", "Hope"],
+    "keywords": ["God", "love", "sinners", "Christ", "died"]
+  }
+]

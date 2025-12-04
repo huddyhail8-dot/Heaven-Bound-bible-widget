@@ -1,0 +1,5 @@
+{
+  "name": "Bible Verse Widget App",
+  "description": "A React web application displaying daily or random Bible verses with categories, search, dark mode, sharing, and a dynamic widget, enhanced with AI reflections.",
+  "requestFramePermissions": []
+}
